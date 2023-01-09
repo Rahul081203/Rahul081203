@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul081203&label=Profile%20views&color=0e75b6&style=flat" alt="rahul081203" /> </p>
 
-- 🔭 I’m currently working on **CS50's Intro to Computer Science Final Project**
+- 🔭 I have completed #Harvard CS50's Introduction to Computer Science.
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [My Github Profile](My Github Profile)
+- 👨‍💻 All of my projects are available at *www.github.com/Rahul081203*
 
 - 💬 Ask me about **Python, C++, C, Flask, Bootstrap, SQL, Java, JavaScript, DSA**
 
-- 📫 How to reach me **rahulthor.081203@gmail.com**
+- 📫 How to reach me #**rahulsharmapro10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
